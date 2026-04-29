@@ -1,0 +1,8 @@
+
+Name: admin
+Email: nirjal@gmail.com
+Password: password
+
+Name: nirjal
+Email: nirjal@gmail.com
+Password: password
